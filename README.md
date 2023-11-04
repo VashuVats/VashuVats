@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Vashu Vats I am student in ABESEC
+[![An image of @vashuvats's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vashuvats)](https://holopin.io/@vashuvats)
