@@ -14,5 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Vashu Vats I am student in ABESEC
+Hey there! I'm Vashu Vats, a passionate student pursuing B.Tech in Computer Science and Engineering at ABESEC (Class of 2023-2027). 🎓
+
+🔍 About Me
+🛡️ Cybersecurity Enthusiast and Bug Bounty Hunter
+🌐 Exploring Web Application, API, and Network Security
+💻 Proficient in Web Development using HTML, CSS, JavaScript, Express, and Node.js
+☁️ Experienced in AWS Cloud with deployed projects
+📊 Skilled in SQL databases like MySQL and NoSQL MongoDB
+🐍 Developed various Python programs, including web scrapers, games with Pygame, and networking tools
+⚙️ Written automation scripts for security testing
+
+🌐 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/vashu-vats-523a43203">Vashu Vats</a>
+
 [![An image of @vashuvats's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vashuvats)](https://holopin.io/@vashuvats)
+
