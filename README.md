@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 Hey there! I'm Vashu Vats, a passionate student pursuing B.Tech in Computer Science and Engineering at ABESEC (Class of 2023-2027). 🎓
 
-🔍 About Me
-
 🛡️ Cybersecurity Enthusiast and Bug Bounty Hunter
 
 🌐 Exploring Web Application, API, and Network Security
