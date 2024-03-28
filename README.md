@@ -24,9 +24,9 @@ Hey there! I'm Vashu Vats, a passionate student pursuing B.Tech in Computer Scie
 
 ☁️ Experienced in AWS Cloud with deployed projects
 
-📊 Skilled in SQL databases like MySQL and NoSQL MongoDB
+📊 Skilled in MySQL and MongoDB
 
-🐍 Developed various Python programs, including web scrapers, games with Pygame, and networking tools
+🐍 Developed various Python programs, including web scrapers, games, and networking tools
 
 ⚙️ Written automation scripts for security testing
 
