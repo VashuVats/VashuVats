@@ -32,7 +32,5 @@ Hey there! I'm Vashu Vats, a passionate student pursuing B.Tech in Computer Scie
 
 🌐 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/vashu-vats-523a43203">Vashu Vats</a>
 
-BADGES:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d0a3d9e5-4186-4bf2-9110-7bdb3fb23709" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 [![An image of @vashuvats's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vashuvats)](https://holopin.io/@vashuvats)
