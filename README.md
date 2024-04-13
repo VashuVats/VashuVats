@@ -32,5 +32,7 @@ Hey there! I'm Vashu Vats, a passionate student pursuing B.Tech in Computer Scie
 
 🌐 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/vashu-vats-523a43203">Vashu Vats</a>
 
+SKILLS:
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
 [![An image of @vashuvats's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vashuvats)](https://holopin.io/@vashuvats)
