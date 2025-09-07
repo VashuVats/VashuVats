@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **vashuvats1@gmail.com**
 
-- 😎 Other Interest **Bookworm, armchair philosopher, finance bro, conspiracy theorist, and history geek**
+- 😎 Other Interest **Bookworm, armchair philosopher, finance bro, conspiracy theorist, and medival artifacts collector**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
