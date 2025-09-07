@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **vashuvats1@gmail.com**
 
+- 😎 Other Interest **Bookworm, armchair philosopher, finance bro, conspiracy theorist, and history geek**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vashuvats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vashuvats" height="30" width="40" /></a>
